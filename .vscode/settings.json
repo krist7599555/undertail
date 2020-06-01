@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.pug": "jade",
+    "*.pl": "prolog",
+    "*.erb": "html",
+    "hash_map": "cpp",
+    "algorithm": "cpp",
+    "functional": "cpp",
+    "iterator": "cpp",
+    "memory": "cpp",
+    "numeric": "cpp",
+    "*.rh": "cpp"
+  }
+}
